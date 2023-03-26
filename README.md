@@ -17,6 +17,9 @@ this is a simple web project, deployment can be on any web server or even local 
 
 pease fork this repository and then issue pull
 vgdw jcv chjbj
+gj guj hb
+
+cej cen ndwc
 
 ###copy right 
 2023 git training
