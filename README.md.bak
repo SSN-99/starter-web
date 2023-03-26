@@ -12,5 +12,7 @@ this is a simple web project, deployment can be on any web server or even local 
 
 ##how to contribute
 
+pease fork this repository and then issue pull
+
 ###copy right 
 2023 git training
